@@ -23,7 +23,10 @@ public class Tohandlehiddenelement {
 	
 		JavascriptExecutor js= (JavascriptExecutor)driver;
 		Thread.sleep(2000);
-		js.executeScript("arguments[0].value='Admin'", hiddenElement);
+		js.executeScript("arguments[0].value='Admin'", hid
+				
+				
+				
 
 		
 	}
